@@ -2,7 +2,7 @@
 - NPM            : 20081010193
 - Mata Kuliah    : Riset Informatika
 
-A. Judul Penelitian :
+- Judul Penelitian :
 Pengujian Sistem Layanan Informasi dan Dokumentasi Publik PPID Kota Surabaya Menggunakan Metode Black Box Testing dengan Teknik Equivalence Partitioning dan Boundary Value Analysis
 
 B. Gambaran Penelitian
