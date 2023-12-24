@@ -1,6 +1,6 @@
-- Nama           : Frisda Dita Isnaini
-- NPM            : 20081010193
-- Mata Kuliah    : Riset Informatika
+Nama           : Frisda Dita Isnaini
+NPM            : 20081010193
+Mata Kuliah    : Riset Informatika
 
 - Judul Penelitian :
 Pengujian Sistem Layanan Informasi dan Dokumentasi Publik PPID Kota Surabaya Menggunakan Metode Black Box Testing dengan Teknik Equivalence Partitioning dan Boundary Value Analysis
